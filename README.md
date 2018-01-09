@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi, world
+
+This file is displayed by default but I have nothing to say for now.
